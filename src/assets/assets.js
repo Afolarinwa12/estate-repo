@@ -88,9 +88,9 @@ export const projectsData = [
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Great service and even better people. I felt supported through every step of the buying process.Their local knowledge made all the difference. Highly recommend for anyone serious about real estate."
     },
-    {
+        {
         name: "James Washington",
         title: "Co-Founder",
         image: profile_img_3,
