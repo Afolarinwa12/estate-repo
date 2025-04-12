@@ -1,7 +1,7 @@
-import React from 'react'
+
 import Navbar from './Navbar'
 import { motion } from "motion/react"
-import { tr } from 'framer-motion/m'
+
 
 const Header = () => {
   return (
