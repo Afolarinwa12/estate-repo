@@ -1,4 +1,6 @@
 Real Estate Website
+[![Live Site](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://estate-repo.vercel.app/.com)
+
 Overview
 This is a modern, responsive real estate website built with React, Vite, and Tailwind CSS. It showcases various real estate projects, provides company details, and allows users to contact the company. The website features smooth animations and user interactions using Framer Motion for a delightful experience.
 
